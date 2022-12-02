@@ -93,10 +93,6 @@ const data = {
                     "url": "https://idlesplinter.xyz/"
                 },
                 {
-                    "name": "GitHub - PCJones/Ultimate-Splinterlands-Bot-V2",
-                    "url": "https://github.com/PCJones/Ultimate-Splinterlands-Bot-V2"
-                },
-                {
                     "name": "SplinterRents",
                     "url": "https://splinterrents.com/"
                 }
