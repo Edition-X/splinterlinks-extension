@@ -1,0 +1,24 @@
+{
+    "manifest_version": 3,
+    "name": "Splinterlinks Extension",
+    "description": "This extension provides a way of storing an accessible list of frequently used URLs, that can be modified and customised by users to suit their needs.",
+    "version": "0.1",
+    "author": "Edition-X",
+
+    "action": {
+        "default_icon": "icons/splinterlands.png",
+        "default_title": "Splinterlands",
+        "default_popup": "splinterlinks.html"
+    },
+    "commands": {
+        "_execute_page_action": {
+            "suggested_key": {
+                "default": "Alt+Space"
+            }
+        }
+    },
+    "permissions": [
+        "contextMenus",
+        "tabs"
+    ]
+}
